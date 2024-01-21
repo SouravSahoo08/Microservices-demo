@@ -1,10 +1,10 @@
-package com.quiz;
+package com.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuizServiceApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {
